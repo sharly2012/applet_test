@@ -1,0 +1,8 @@
+##ignore this file##
+/.idea/
+/.pytest_cache/
+/conf/*.ini
+/conf/*.yaml
+/report/html/
+/report/xml/
+/pages/__pycache__/*.pyc

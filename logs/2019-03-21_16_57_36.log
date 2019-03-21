@@ -1,0 +1,28 @@
+2019-03-21 16:57:36,305  - INFO - EnvironmentInfo xml_reportvalues is E:/PycharmProjects/wechat_test/report/xml
+2019-03-21 16:57:36,308  - INFO - EnvironmentInfo html_reportvalues is E:/PycharmProjects/wechat_test/report/html
+2019-03-21 16:57:37,822  - INFO - DEVICES platformNamevalues is Android
+2019-03-21 16:57:37,824  - INFO - DEVICES platformVersionvalues is 8.1.0
+2019-03-21 16:57:37,827  - INFO - DEVICES deviceNamevalues is CLB0219116000104
+2019-03-21 16:57:37,830  - INFO - DEVICES browserNamevalues is chrome
+2019-03-21 16:57:37,832  - INFO - DEVICES appvalues is E:/xxx.apk
+2019-03-21 16:57:37,834  - INFO - DEVICES appPackagevalues is com.tencent.mm
+2019-03-21 16:57:37,837  - INFO - DEVICES appActivityvalues is .ui.LauncherUI
+2019-03-21 16:57:37,840  - INFO - DEVICES automationNamevalues is Appium
+2019-03-21 16:57:37,843  - INFO - DEVICES unicodeKeyboardvalues is True
+2019-03-21 16:57:37,845  - INFO - DEVICES resetKeyboardvalues is True
+2019-03-21 16:57:37,847  - INFO - DEVICES newCommandTimeoutvalues is 30
+2019-03-21 16:57:37,849  - INFO - DEVICES noResetvalues is True
+2019-03-21 16:57:37,851  - INFO - DEVICES chromeOptionsvalues is {'androidProcess': 'com.tencent.mm:appbrand0'}
+2019-03-21 17:05:22,819  - INFO - DEVICES platformNamevalues is Android
+2019-03-21 17:05:22,822  - INFO - DEVICES platformVersionvalues is 8.1.0
+2019-03-21 17:05:22,825  - INFO - DEVICES deviceNamevalues is CLB0219116000104
+2019-03-21 17:05:22,828  - INFO - DEVICES browserNamevalues is chrome
+2019-03-21 17:05:22,830  - INFO - DEVICES appvalues is E:/xxx.apk
+2019-03-21 17:05:22,832  - INFO - DEVICES appPackagevalues is com.tencent.mm
+2019-03-21 17:05:22,835  - INFO - DEVICES appActivityvalues is .ui.LauncherUI
+2019-03-21 17:05:22,838  - INFO - DEVICES automationNamevalues is Appium
+2019-03-21 17:05:22,840  - INFO - DEVICES unicodeKeyboardvalues is True
+2019-03-21 17:05:22,843  - INFO - DEVICES resetKeyboardvalues is True
+2019-03-21 17:05:22,846  - INFO - DEVICES newCommandTimeoutvalues is 30
+2019-03-21 17:05:22,849  - INFO - DEVICES noResetvalues is True
+2019-03-21 17:05:22,852  - INFO - DEVICES chromeOptionsvalues is {'androidProcess': 'com.tencent.mm:appbrand0'}
